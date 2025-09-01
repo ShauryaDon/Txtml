@@ -1,5 +1,5 @@
 <h1 align="center">
-  ✨ SAINI Txt to HTML Bot 
+  ✨ 🏌️ՏᕼᗩᑌᖇYᗩ🏌️ Txt to HTML Bot 
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-> 🚫 **Do not remove the credit tag**
+
 
 ---
 
@@ -41,17 +41,4 @@
 
 ---
 
-## 🤖 Bot Usernames
-
-- [@saini_contact_bot](https://t.me/saini_contact_bot)
-- [@saini_file_store_bot](https://t.me/saini_file_store_bot)
-
 ---
-
-## 📂 Original Repositories
-
-- 🔗 [nikhilsainiop/Txt-html](https://github.com/nikhilsainiop/Txt-html)
-
----
-
-> 👨‍💻 Created with ❤️ by [@nikhil.saini.khe](https://instagram.com/nikhil.saini.khe)
